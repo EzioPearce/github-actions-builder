@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/EzioPearce/github-actions-builder/compare/v1.1.0...v1.1.1) (2023-09-28)
+
+
+### Bug Fixes
+
+* update text ([489ba43](https://github.com/EzioPearce/github-actions-builder/commit/489ba43bfe00475351434c437a49c40185367368))
+
 ## [1.1.0](https://github.com/EzioPearce/github-actions-builder/compare/v1.0.0...v1.1.0) (2023-09-28)
 
 
